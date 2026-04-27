@@ -1,4 +1,4 @@
-# ValenBisi 🚲
+# ValenBisi 🚴
 
 **Aplicación Android para consultar en tiempo real la disponibilidad de bicicletas y espacios libres en las estaciones de Valenbisi (Valencia, España).** La app carga el dataset oficial de Valenbisi, muestra todas las estaciones en una lista ordenable con indicador visual de disponibilidad y permite navegar a la ubicación exacta de cualquier estación en Google Maps.
 
@@ -109,7 +109,7 @@ Los datos utilizados provienen del **Portal de Datos Abiertos del Ayuntamiento d
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/valenbisi.git
+   git clone https://github.com/Llarry793/ValenBisi.git
    ```
 2. Abre el proyecto en Android Studio.
 3. Sincroniza las dependencias de Gradle.
