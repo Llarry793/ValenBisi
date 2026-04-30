@@ -14,7 +14,7 @@ ValenBisi consume el dataset público de disponibilidad de la red de bicicletas 
 
 | Lista de estaciones | Detalle de estación |
 |:-------------------:|:-------------------:|
-| ![Lista de estaciones](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/48d0b5f7-71f8-4af8-b9f4-d9543966e4c3) | ![Detalle de estación](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/268be0dc-61fe-4fac-b63a-d61654dfd67b) |
+| ![Lista de estaciones](screenshots/PantallaInicioValenBisi.jpg) | ![Detalle de estación](screenshots/InfoEstacionBicisValenBisi.jpg) |
 
 ***
 
