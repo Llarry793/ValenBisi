@@ -20,12 +20,12 @@ ValenBisi consume el dataset público de disponibilidad de la red de bicicletas 
 
 ## Características principales
 
-- 🗂️ **Lista de todas las estaciones**: muestra dirección, bicicletas disponibles y postes libres para cada estación de la red Valenbisi.
-- 🟢🟡🔴 **Indicador visual de disponibilidad**: el texto de bicicletas disponibles cambia de color según el stock — verde (>10), amarillo (5-10) y rojo (<5).
-- 🔃 **Ordenación flexible**: ordena la lista por dirección (A-Z) o por número de bicicletas disponibles (descendente) tanto desde botones en pantalla como desde el menú de la Toolbar.
-- 📋 **Vista de detalle**: al pulsar una estación se abre una pantalla con toda su información: dirección, bicicletas disponibles, espacios libres, capacidad total y fecha/hora de la última actualización.
-- 🗺️ **Abrir en Google Maps**: desde la pantalla de detalle, un botón FAB y una opción del menú permiten abrir la estación directamente en Google Maps con las coordenadas exactas.
-- 📡 **Fuente de datos oficial**: los datos provienen del open data del Ayuntamiento de Valencia (fichero `valenbisi_disponibilitat.json`).
+- **Lista de todas las estaciones**: muestra dirección, bicicletas disponibles y postes libres para cada estación de la red Valenbisi.
+- **Indicador visual de disponibilidad**: el texto de bicicletas disponibles cambia de color según el stock — verde (>10), amarillo (5-10) y rojo (<5).
+- **Ordenación flexible**: ordena la lista por dirección (A-Z) o por número de bicicletas disponibles (descendente) tanto desde botones en pantalla como desde el menú de la Toolbar.
+- **Vista de detalle**: al pulsar una estación se abre una pantalla con toda su información: dirección, bicicletas disponibles, espacios libres, capacidad total y fecha/hora de la última actualización.
+- **Abrir en Google Maps**: desde la pantalla de detalle, un botón FAB y una opción del menú permiten abrir la estación directamente en Google Maps con las coordenadas exactas.
+- **Fuente de datos oficial**: los datos provienen del open data del Ayuntamiento de Valencia (fichero `valenbisi_disponibilitat.json`).
 
 ***
 
